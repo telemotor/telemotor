@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pc2ORQp+VY3Un/dkh4QwLC7R6lE=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "a368813c5e648fee92e5f6c30e3944ff9d5e8895",
+			"revisionTime": "2017-06-26T11:06:00Z"
+		},
+		{
+			"checksumSHA1": "OLqprTiaOxrn4X2yJ9LV+WbFJ14=",
+			"path": "github.com/jinzhu/configor",
+			"revision": "6ecfe629230f24c2e92c7894c6ab21b83b757a39",
+			"revisionTime": "2017-10-24T08:10:03Z"
+		},
+		{
+			"checksumSHA1": "J4Ed70aY/vMqYXspAF2Ev8+rILY=",
+			"path": "github.com/jmoiron/sqlx",
+			"revision": "99f3ad6d85ae53d0fecf788ab62d0e9734b3c117",
+			"revisionTime": "2017-11-29T23:28:51Z"
+		},
+		{
+			"checksumSHA1": "xXjxKqs3ECyWO5zjIVb2qgj9rcU=",
+			"path": "github.com/jmoiron/sqlx/reflectx",
+			"revision": "99f3ad6d85ae53d0fecf788ab62d0e9734b3c117",
+			"revisionTime": "2017-11-29T23:28:51Z"
+		},
+		{
+			"checksumSHA1": "1XzGTIZoKYvNFmErD630zK1xxDc=",
+			"path": "github.com/kshvakov/clickhouse",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "rNjgsSrtZWHxdSsvABV9vVl4nvM=",
+			"path": "github.com/kshvakov/clickhouse/lib/binary",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "MZW/ngRStY8CnDEMxQ4gx25hlbk=",
+			"path": "github.com/kshvakov/clickhouse/lib/column",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "V4xKIzUklXcsuRk1rrNvbrWHPxc=",
+			"path": "github.com/kshvakov/clickhouse/lib/data",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "ufET0wbq25geHjZiCY3tu4FlLeU=",
+			"path": "github.com/kshvakov/clickhouse/lib/protocol",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "ZQpL0gf/qVoJsHs2rLHQhDLhdcg=",
+			"path": "github.com/kshvakov/clickhouse/lib/types",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "yxaizsc0g9UElhfIEl0i3FvL3b0=",
+			"path": "github.com/kshvakov/clickhouse/lib/writebuffer",
+			"revision": "95e4a6a9dd85f7b58c2db7d0dc820fd937bf7abf",
+			"revisionTime": "2017-11-07T09:00:43Z"
+		},
+		{
+			"checksumSHA1": "fRgp9UZPllOlkPssv7frzQx4z9A=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "287cf08546ab5e7e37d55a84f7ed3fd1db036de5",
+			"revisionTime": "2017-11-16T09:02:43Z"
+		}
+	],
+	"rootPath": "go.telemotor.org/service"
+}
